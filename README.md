@@ -5,6 +5,7 @@ A GitHub-ready learning repository for beginners who want to grow into strong Te
 This course starts from the fundamentals and moves step by step into support operations, scripting, cloud, integrations, solution engineering, production thinking, and portfolio projects.
 
 ---
+<img width="1536" height="1024" alt="senior technical support engineer" src="https://github.com/user-attachments/assets/22721da6-a52f-4d78-a940-fc1b5609d8a9" />
 
 # What This Course Is For
 
