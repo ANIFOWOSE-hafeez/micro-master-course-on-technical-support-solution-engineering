@@ -1,5 +1,3 @@
-# 01-beginner-foundations/lessons/computer-fundamentals.md
-
 # Computer Fundamentals
 
 > Learn how computers actually work so troubleshooting, support, automation, and engineering concepts make sense later.
